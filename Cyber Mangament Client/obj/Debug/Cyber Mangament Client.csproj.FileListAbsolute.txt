@@ -1,0 +1,51 @@
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\Cyber Mangament Client.exe.config
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\Cyber Mangament Client.exe
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\Cyber Mangament Client.pdb
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\Newtonsoft.Json.dll
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\SharedLib.dll
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\SharedLib.pdb
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\Newtonsoft.Json.xml
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.frmClient.resources
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.Properties.Resources.resources
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csproj.GenerateResource.cache
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csproj.CoreCompileInputs.cache
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csproj.CopyComplete
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.exe
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.pdb
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csprojAssemblyReference.cache
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.frmLogin.resources
+F:\testing projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.frmSettings.resources
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\Cyber Mangament Client.exe.config
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\Cyber Mangament Client.exe
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\Cyber Mangament Client.pdb
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\Newtonsoft.Json.dll
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\SharedLib.dll
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\SharedLib.pdb
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\bin\Debug\Newtonsoft.Json.xml
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csprojAssemblyReference.cache
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.frmClient.resources
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.frmLogin.resources
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.frmSettings.resources
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.Properties.Resources.resources
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csproj.GenerateResource.cache
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csproj.CoreCompileInputs.cache
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csproj.CopyComplete
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.exe
+F:\My Projects\Cyber Cafe Management\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.pdb
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\bin\Debug\Cyber Mangament Client.exe.config
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\bin\Debug\Cyber Mangament Client.exe
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\bin\Debug\Cyber Mangament Client.pdb
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\bin\Debug\Newtonsoft.Json.dll
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\bin\Debug\SharedLib.dll
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\bin\Debug\SharedLib.pdb
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\bin\Debug\Newtonsoft.Json.xml
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csprojAssemblyReference.cache
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.frmClient.resources
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.frmLogin.resources
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.frmSettings.resources
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\obj\Debug\Cyber_Mangament_Client.Properties.Resources.resources
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csproj.GenerateResource.cache
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csproj.CoreCompileInputs.cache
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.csproj.CopyComplete
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.exe
+F:\My Projects\Cyber Cafe Management - v2\Cyber Mangament Client\obj\Debug\Cyber Mangament Client.pdb

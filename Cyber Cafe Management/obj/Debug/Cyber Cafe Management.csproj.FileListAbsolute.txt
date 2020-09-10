@@ -1,0 +1,45 @@
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\Cyber Cafe Management.exe.config
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\Cyber Cafe Management.exe
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\Cyber Cafe Management.pdb
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\Newtonsoft.Json.dll
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\SharedLib.dll
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\SharedLib.pdb
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\Newtonsoft.Json.xml
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csprojAssemblyReference.cache
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber_Cafe_Management.frmServer.resources
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber_Cafe_Management.Properties.Resources.resources
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csproj.GenerateResource.cache
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csproj.CoreCompileInputs.cache
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csproj.CopyComplete
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.exe
+F:\testing projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.pdb
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\Cyber Cafe Management.exe.config
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\Cyber Cafe Management.exe
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\Cyber Cafe Management.pdb
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\Newtonsoft.Json.dll
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\SharedLib.dll
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\SharedLib.pdb
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\bin\Debug\Newtonsoft.Json.xml
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csprojAssemblyReference.cache
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber_Cafe_Management.frmServer.resources
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber_Cafe_Management.Properties.Resources.resources
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csproj.GenerateResource.cache
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csproj.CoreCompileInputs.cache
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csproj.CopyComplete
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.exe
+F:\My Projects\Cyber Cafe Management\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.pdb
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csprojAssemblyReference.cache
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\obj\Debug\Cyber_Cafe_Management.frmServer.resources
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\obj\Debug\Cyber_Cafe_Management.Properties.Resources.resources
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csproj.GenerateResource.cache
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csproj.CoreCompileInputs.cache
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.exe
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.pdb
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\bin\Debug\Cyber Cafe Management.exe.config
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\bin\Debug\Cyber Cafe Management.exe
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\bin\Debug\Cyber Cafe Management.pdb
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\bin\Debug\Newtonsoft.Json.dll
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\bin\Debug\SharedLib.dll
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\bin\Debug\SharedLib.pdb
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\bin\Debug\Newtonsoft.Json.xml
+F:\My Projects\Cyber Cafe Management - v2\Cyber Cafe Management\obj\Debug\Cyber Cafe Management.csproj.CopyComplete
